@@ -7,7 +7,7 @@ public class StringTest {
 		// String 타입
 		// - 문자 여러개로 이어진 타입이다(문자열)
 		
-		String name = "홍길돌";
+		String name = "홍길동";
 		String message = "안녕하세요";
 		
 		// 길이 확인 length()
